@@ -3,7 +3,7 @@ About file
 
 Home: http://darwinsys.com/file
 
-Package license: BSD
+Package license: BSD-2-clause
 
 Feedstock license: BSD 3-Clause
 
